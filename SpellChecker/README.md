@@ -1,5 +1,3 @@
-Author: Samantha Taylor
-
 Instructions for using prgram:
     '.spellconf' file contains settings for the spell checker
     Format of file:
@@ -17,15 +15,3 @@ List of files and their purposes:
     LinkedList: Provides a structure to store and access related information
     FileIO: Reads and writes files. Also processes files contents into correct information containers
     ListFunctions: Provides methods that provide functionality to a list
-
-**************************************************
-    Modified check.h function: 
-        Changed #define  TRUE and FALSE so I could
-        use TRUE and FALSE without importing check.h
-        in all my other files 
-**************************************************
-
-Completeness of assignment: Complete functioning 
-
-List of bugs: No known bugs or defects
-
